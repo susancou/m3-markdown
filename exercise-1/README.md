@@ -8,8 +8,11 @@ See `complete` branch for an example.
 
 ###Quote
 >Here's a sigh to those who love me,
+
 >And a smile to those who hate;
+
 >And, whatever sky's above me,
+
 >Here's a heart for every fate.
 
 this is from [To Thomas Moore by Byron](http://www.online-literature.com/byron/703/)
