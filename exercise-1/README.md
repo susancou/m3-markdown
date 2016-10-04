@@ -5,3 +5,11 @@ As described in [module-4](https://github.com/INFO-201/m4-git-intro), you should
 Then, in the space below, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote. When you push your changes back up to GitHub, you will see the rendered markdown file.
 
 See `complete` branch for an example.
+
+###Quote
+>Here's a sigh to those who love me,
+>And a smile to those who hate;
+>And, whatever sky's above me,
+>Here's a heart for every fate.
+
+this is from To [Thomas Moore by Byron](http://www.online-literature.com/byron/703/)
