@@ -15,4 +15,4 @@ See `complete` branch for answers.
 an ordered list is important when you are ranking your list - if, for example, you have a series of step that you want your user to do in a set order.  
   1. you would do this first
   1. you would do this second
-..+ and you can add unordered information as well
+   ..+ and you can add unordered information as well..
