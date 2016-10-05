@@ -9,3 +9,10 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+##this is heading 2
+###ordered list
+an ordered list is important when you are ranking your list - if, for example, you have a series of step that you want your user to do in a set order.  
+  1. you would do this first
+  1. you would do this second
+	*and you can add unordered information as well
